@@ -1,4 +1,4 @@
-# 🛒 Blinkit Product Data Analysis (SQL i)
+# 🛒 Blinkit Product Data Analysis (SQL Project)
 
 ## 📌 Overview
 
